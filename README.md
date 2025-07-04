@@ -1,2 +1,2 @@
 # SpringBootDemo
-SpringBoot Demo Project Using for OCP deployment
+SpringBoot Demo Project Using for Basics of kubernetes and OCP deployment
